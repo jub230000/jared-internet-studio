@@ -1,9 +1,9 @@
-h1, h2, h3 {
+h1, h3 {
 
       font-family: "Instrument Serif", serif;
 }
 
-p, td, li {
+p, td, li, h2 {
 
     font-family: "Montserrat", sans-serif;
 }
