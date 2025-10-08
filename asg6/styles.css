@@ -36,3 +36,10 @@ p {
 
   float: right;
 }
+
+body {
+        background-image: url('images/paisley.webp'); 
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+}
