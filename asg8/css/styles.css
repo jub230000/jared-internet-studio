@@ -84,4 +84,9 @@ html {
 	font-weight: bold;
 	color: rgb(153,153,153);
 }
+.main ul {
+	margin: 50px 0 25px 50px;
+	width: 25%;
+	float: right;
+}
 /* end reset browser styles */
