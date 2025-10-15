@@ -51,6 +51,14 @@ html {
 	background: rgb(225,238,253) url(../images/bg_body.png) repeat-x;
 }
 
+.main [
+	max-width: 240px;
+	margin: 0 auto;
+	padding: 0 10px
+	border: 4px solid white;
+	background: transparent url(../images/bg_banner.jpg) no-repeat;
+]
+
 .main h1 {
     color: rgb(249,212,120);
     font-family: "Arial Black", Arial, Helvetica, sans-serif;
