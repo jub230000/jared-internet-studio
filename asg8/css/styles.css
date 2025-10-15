@@ -27,6 +27,14 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 } 
+/* slabo-27px-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Slabo 27px';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/slabo-27px-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
 /* pt-sans-regular - latin */
 @font-face {
@@ -46,5 +54,9 @@ html {
     color: rgb(149,212,120)
     font-family: "Arial Black", Arial, Helvetica, sans-serif;
     font-size: 4em;
+}
+
+.main h2 {
+	font: normal 3.16em "Slabo 27px", Garamond, Times, serif;
 }
 /* end reset browser styles */
