@@ -71,4 +71,17 @@ html {
 	margin-top: 25px;
 	margin-bottom: 10px;
 }
+
+.main p {
+	font-size: 1.8em;
+	line-height: 1.5;
+	margin-left: 150px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+}
+
+.main p::first-line {
+	font-weight: bold;
+	color: rgb(153,153,153)
+}
 /* end reset browser styles */
