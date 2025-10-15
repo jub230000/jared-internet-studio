@@ -52,7 +52,7 @@ html {
 }
 
 .main {
-	max-width: 740px;
+	max-width: 100px;
 	margin: 0 auto;
 	padding: 0 10px;
 	border: 4px solid white;
