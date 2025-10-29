@@ -26,11 +26,13 @@
 .flex {
   width: 150px;
   border: 1px solid grey;
-  display: inline-flex;
+  display: flex;
   justify-content: center;
 
 .box {
-  background-color: dodgerblue;
   height: 75px;
-  width: 75px;
+  width: 100px;
+  background-color: dodgerblue;
+  border: 1px solid lightgrey;
+  display: inline-block;
 }
