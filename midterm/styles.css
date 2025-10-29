@@ -23,3 +23,13 @@
        
 
  Insert all your glorious CSS styles below! */
+.flex {
+  width: 150px;
+  border: 1px solid grey;
+  display: inline-flex;
+  justify-content: center;
+
+.box {
+  background-color: dodgerblue;
+  height: 75px;
+  width: 75px;
