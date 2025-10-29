@@ -24,6 +24,7 @@
 
  Insert all your glorious CSS styles below! */
 .flex {
+padding-left: 500px;
   width: 150px;
   border: 1px solid grey;
   display: flex;
