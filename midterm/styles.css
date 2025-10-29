@@ -33,6 +33,7 @@
   border: 1px solid grey;
   display: inline-flex;
   justify-content: center;
+  text-align: center;
 }
 
 .box {
