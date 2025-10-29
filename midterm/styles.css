@@ -23,6 +23,11 @@
        
 
  Insert all your glorious CSS styles below! */
+
+ .main {
+  text-align: center;
+ }
+
 .flex {
   width: 150px;
   border: 1px solid grey;
