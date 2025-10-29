@@ -28,12 +28,11 @@
   text-align: center;
  }
 
-.flex {
+.container {
   width: 400px;
   border: 1px solid grey;
   display: inline-flex;
-  justify-content: center;
-  text-align: center;
+  justify-content: flex-end;
 }
 
 .box {
