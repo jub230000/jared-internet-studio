@@ -43,3 +43,7 @@
   border: 1px solid lightgrey;
   display: inline-block;
 }
+
+.flex {
+  color: black;
+}
