@@ -29,7 +29,7 @@
  }
 
 .flex {
-  width: 150px;
+  width: 400px;
   border: 1px solid grey;
   display: inline-flex;
   justify-content: center;
