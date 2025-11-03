@@ -34,6 +34,8 @@ button {
   font-size: 25px;
   background-color: aquamarine;
   color: darkblue;
+  border: none;
+  display: inline-block
 }
 
 .beach {
