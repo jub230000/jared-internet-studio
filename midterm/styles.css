@@ -24,26 +24,8 @@
 
  Insert all your glorious CSS styles below! */
 
- .main {
-  text-align: center;
- }
-
-.container {
-  width: 400px;
-  border: 1px solid grey;
-  display: inline-flex;
-  justify-content: center;
-  text-align: center;
-}
-
-.box {
-  height: 75px;
-  width: 100px;
-  background-color: dodgerblue;
-  border: 1px solid lightgrey;
-  display: inline-block;
-}
-
-a:link {
-  color: black;
+.menu {
+  font-size: 25px;
+  background-color: aquamarine;
+  color: darkblue;
 }
