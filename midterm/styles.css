@@ -86,19 +86,19 @@ button:hover {
 }
 
 .sub {
-  margin-bottom: 200px;
+  margin-bottom: 150px;
   padding-top: none;
   padding-bottom: 5px;
 }
 
 .bottom {
-  font-size: 100%em;
+  font-size: 15px;
 }
 
 .about {
   font-size: 50px;
   font-style: bold;
-
+  padding-bottom: 2px;
 }
 
 h1, h2, h3 {
@@ -108,3 +108,6 @@ h1, h2, h3 {
 p {
   font-family: 'Carlito';
 }
+
+/*BELOW IS FOR ACTIVITIES.HTML*/
+
