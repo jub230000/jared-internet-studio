@@ -80,6 +80,8 @@ button:hover {
 .beach {
   margin-top: 20px;
   float: left;
+  border: 10px;
+  border-color: bisque;
 }
 
 .sub {
