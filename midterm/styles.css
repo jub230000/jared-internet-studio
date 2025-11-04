@@ -59,6 +59,7 @@ button:hover {
   background-color: darkslategrey;
   border: 2px;
   border-color:green;
+  transform: scale(1.5);
 }
 
 .main {
@@ -84,15 +85,17 @@ button:hover {
 }
 
 .sub {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .bottom {
-  font-size: 50%em
+  font-size: 100%em
 }
 
 .about {
-  font-size: larger;
+  font-size: 50px;
+  font-style: bold;
+
 }
 
 h1, h2, h3 {
