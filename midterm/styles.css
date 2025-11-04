@@ -59,7 +59,7 @@ button:hover {
   background-color: darkslategrey;
   border: 2px;
   border-color:green;
-  transform: scale(1.5);
+  transform: scale(1.2);
 }
 
 .main {
@@ -67,6 +67,7 @@ button:hover {
   color: darkgreen;
   font-style: bold;
   font-family: 'Buenard';
+  padding-bottom: 5px;
 }
 
 .desc {
@@ -85,7 +86,7 @@ button:hover {
 }
 
 .sub {
-  margin-bottom: 200px;
+  margin-bottom: 50px;
 }
 
 .bottom {
