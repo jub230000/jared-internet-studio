@@ -23,6 +23,23 @@
        
 
  Insert all your glorious CSS styles below! */
+ /* buenard-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Buenard';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/buenard-v22-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* carlito-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Carlito';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/carlito-v4-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
  body {
   background-image: url('./images/creamwhite.jpg');
@@ -48,6 +65,7 @@ button:hover {
   font-size: 100px;
   color:antiquewhite;
   font-style: bold;
+  font-family: 'Buenard';
 }
 
 .desc {
@@ -56,6 +74,7 @@ button:hover {
   font-size: 40px;
   margin-top: 50px;
   margin-right: 30px;
+  font-family: 'Carlito';
 }
 
 .beach {
