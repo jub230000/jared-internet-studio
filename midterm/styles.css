@@ -45,11 +45,11 @@ button:hover {
 }
 
 .desc {
-  float: right;
   background-color: bisque;
   font-style:italic;
 }
 
 .beach {
   margin-top: 50px;
+  float: left;
 }
