@@ -24,12 +24,18 @@
 
  Insert all your glorious CSS styles below! */
 
+ body {
+  background-image url('images/Background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
 button {
   font-size: 25px;
   background-color:bisque;
   color: darkgreen;
   border: none;
-  display: inline-block
+  display: inline-block;
 }
 
 button:hover {
