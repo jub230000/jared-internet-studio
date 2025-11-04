@@ -92,6 +92,7 @@ button:hover {
 }
 
 .bot {
+  font-size:100%;
   font-style: bold;
   font-family: 'Carlito';
   margin-bottom: 5px;
@@ -115,5 +116,5 @@ p {
 /*BELOW IS FOR ACTIVITIES.HTML*/
 
 .activities {
-  background-color:
+  background-color: antiquewhite;
 }
