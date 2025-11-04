@@ -63,7 +63,7 @@ button:hover {
 
 .main {
   font-size: 100px;
-  color:antiquewhite;
+  color: darkgreen;
   font-style: bold;
   font-family: 'Buenard';
 }
@@ -78,6 +78,26 @@ button:hover {
 }
 
 .beach {
-  margin-top: 50px;
+  margin-top: 20px;
   float: left;
+}
+
+.sub {
+  margin-bottom: 20px;
+}
+
+.bottom {
+  font-size: 50%em
+}
+
+.about {
+  font-size: larger;
+}
+
+h1, h2, h3 {
+  font-family: 'Buenard';
+}
+
+p {
+  font-family: 'Carlito';
 }
