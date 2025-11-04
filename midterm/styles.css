@@ -38,6 +38,12 @@ button:hover {
   border-color:green;
 }
 
+.main {
+  font-size: 100px;
+  color: darkgreen;
+  font-style: bold;
+}
+
 .beach {
-  margin-top: 25px;
+  margin-top: 50px;
 }
