@@ -47,6 +47,8 @@ button:hover {
 .desc {
   background-color: bisque;
   font-style:italic;
+  font-size: 40px;
+  margin-top: 50px;
 }
 
 .beach {
