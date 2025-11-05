@@ -137,6 +137,13 @@ footer {
   display: flex;
   justify-content: center;
   font-family: 'Carlito';
+  background-color: bisque;
+}
+
+ul, li {
+  list-style: none;
+  font-family: 'Carlito';
+  font-size: 200%;
 }
 
 /*BELOW IS FOR STATEMENT.HTML*/
