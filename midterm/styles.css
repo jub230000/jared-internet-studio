@@ -147,6 +147,7 @@ ul, li {
   list-style: none;
   font-family: 'Carlito';
   font-size: 150%;
+  justify-content: center;
 }
 
 /*BELOW IS FOR STATEMENT.HTML*/
