@@ -8,6 +8,18 @@
 
 <body>
 
+    <h1 class="act">Contact Us</h1>
+
+    <div id="menu">
+      <a href="./activities.html"><button>Things To Do</button></a>
+      <a href="./dining.html"><button>Where To Eat</button></a>
+      <a href="./statement.html"><button> Design Statement</button></a>
+      <a href="./index.html"><button>Home</button></a>
+    </div>
+
+    <br>
+    <br>
+
     <form action="process_form.php" method="POST">
         <label for="name">Your Name:</label><br>
         <input type="text" id="name" name="user_name" required><br><br>
@@ -15,16 +27,17 @@
         <label for="email">Your Email:</label><br>
         <input type="email" id="email" name="user_email" required><br><br>
 
+        <label for="phone">Your Phone Number:</label><br>
+        <input type="text" id="number" name="user_number"><br><br>
+
         <label for="subject">Subject:</label><br>
         <input type="text" id="subject" name="email_subject"><br><br>
 
         <label for="message">Your Message:</label><br>
         <textarea id="message" name="user_message" rows="5" required></textarea><br><br>
 
-        <input type="submit" value="Send Message">
+        <input type="submit" value="Submit">
     </form>
-
-
 
 
 
