@@ -87,7 +87,7 @@ button:hover {
 
 .sub {
   margin-bottom: 150px;
-  padding-top: none;
+  padding-top: -50px;
   padding-bottom: 5px;
 }
 
