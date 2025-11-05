@@ -130,6 +130,9 @@ p {
 
 footer {
   background-color: bisque;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .footer {
@@ -143,7 +146,7 @@ footer {
 ul, li {
   list-style: none;
   font-family: 'Carlito';
-  font-size: 200%;
+  font-size: 50%;
 }
 
 /*BELOW IS FOR STATEMENT.HTML*/
