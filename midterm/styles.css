@@ -115,6 +115,7 @@ p {
   font-family: 'Carlito';
 }
 
+
 /*BELOW IS FOR ACTIVITIES.HTML*/
 
 .activities {
@@ -125,6 +126,17 @@ p {
   font-size: 250%;
   color: darkgreen;
   font-family: 'Buenard'
+}
+
+footer {
+  background-color: bisque;
+}
+
+.footer {
+  margin: 30px 0;
+  display: flex;
+  justify-content: center;
+  font-family: 'Carlito';
 }
 
 /*BELOW IS FOR STATEMENT.HTML*/
