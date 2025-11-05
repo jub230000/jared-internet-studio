@@ -134,6 +134,7 @@ footer {
   margin: 0;
   box-sizing: border-box;
   width: 100%
+  justify-content: center;
 }
 
 .footer {
