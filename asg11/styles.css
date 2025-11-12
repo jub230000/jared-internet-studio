@@ -15,3 +15,11 @@
   font-weight: 400;
   src: url('../fonts/darker-grotesque-v10-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+}
