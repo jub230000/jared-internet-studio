@@ -1,0 +1,17 @@
+/* afacad-flux-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Afacad Flux';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/afacad-flux-v4-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* darker-grotesque-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Darker Grotesque';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/darker-grotesque-v10-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
