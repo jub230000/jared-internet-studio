@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  border: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  justify-content: center;
+}
+
 /*grids and boxes*/
 
 .gridContainer {
